@@ -1,14 +1,15 @@
 <h1 align="center"><U>LHD Challenge: Learn About APIs</U></h1>
-
+<img src="https://uploads-ssl.webflow.com/611141321924300710121a2c/612f90cfea72f6ee37f5472c_Learn-wallpaper-Main.jpg">
 <h2>What is API?</h2>
 <p>An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software.</p>
 
 
 <h2>About: </h2>
 <p>Using APIs opens a ton of functionality you can add to any hack. For this challenge, we just want you to connect any two APIs together, utilize an API, in a project, or even just research up about APIs.</p>
+<p>This is a part of challenges by <a href="https://localhackday.mlh.io/">Local Hack Day</a> organized by <a href="https://mlh.io/">MLH</p>
 
 <h2>What we have learnt: </h2>
-<p>We learnt anbout what is APIs and also researched a few APIs that we have listed below.</p>
+<p>We learnt anbout what is APIs and also researched a few APIs that we have listed below. As we were all newbies it took us time to build and develop something while learning and experimenting simultaneously</p>
 
 
 <h3>List of APIs: </h3>
