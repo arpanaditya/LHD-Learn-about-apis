@@ -21,3 +21,6 @@ Large public digital achieve | Archve.org  | https://archive.org/metadata/TheAdv
 24 hr crypto data     | Binance	           | https://api2.binance.com/api/v3/ticker/24hr
 Activity Suggestions      | Bored          | https://www.boredapi.com/api/activity
 
+![f802cc6d8fbc9e3f4a9223eb1d965275](https://user-images.githubusercontent.com/86939391/136805531-6ba35b6c-a473-4369-a457-63df84feba5f.png)
+![OIP](https://user-images.githubusercontent.com/86939391/136805823-ba3d0346-6234-4b0b-a5a1-70237cd71da1.jpg)
+![R](https://user-images.githubusercontent.com/86939391/136805952-ff7489cd-5aff-44d9-b9ad-0ecba7e91c00.jpg)
