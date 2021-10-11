@@ -1,8 +1,11 @@
 <h1 align="center"><U>LHD Challenge: Learn About APIs</U></h1>
 
-<h2>About: </h2>
-<p>The details about the challenge goes here.</p>
+<h2>What is API?</h2>
+<p>An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software.</p>
 
+
+<h2>About: </h2>
+<p>Using APIs opens a ton of functionality you can add to any hack. For this challenge, we just want you to connect any two APIs together, utilize an API, in a project, or even just research up about APIs.</p>
 
 <h2>What we have learnt: </h2>
 <p>What we have learnt here goes on.</p>
