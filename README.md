@@ -8,7 +8,7 @@
 <p>Using APIs opens a ton of functionality you can add to any hack. For this challenge, we just want you to connect any two APIs together, utilize an API, in a project, or even just research up about APIs.</p>
 
 <h2>What we have learnt: </h2>
-<p>What we have learnt here goes on.</p>
+<p>We learnt about what are APIs and researched a few APIs</p>
 
 
 <h3>List of APIs: </h3>
