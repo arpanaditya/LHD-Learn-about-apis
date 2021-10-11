@@ -12,5 +12,9 @@
 
 | Category  | API NAME | API URL |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+7Timer      |Weather forecasts	           | http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json
+coinbase    |	Currency code and name       | https://api.coinbase.com/v2/currencies
+Archive.org | Large public digital archive | https://archive.org/metadata/TheAdventuresOfTomSawyer_201303
+Binance     | 24 hr crypto data	           | https://api2.binance.com/api/v3/ticker/24hr
+Bored       | Activity suggestions         | https://www.boredapi.com/api/activity
+
