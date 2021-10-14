@@ -9,7 +9,7 @@
 <p>This is a part of challenges by <a href="https://localhackday.mlh.io/">Local Hack Day</a> organized by <a href="https://mlh.io/">MLH</p>
 
 <h2>What we have learnt: </h2>
-<p>We learnt anbout what is APIs and also researched a few APIs that we have listed below. As we were all newbies it took us time to build and develop something while learning and experimenting simultaneously</p>
+<p>We learnt about what is APIs and also researched a few APIs that we have listed below. As we were all newbies it took us time to build and develop something while learning and experimenting simultaneously</p>
 
 
 <h3>List of APIs: </h3>
